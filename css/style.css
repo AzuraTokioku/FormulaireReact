@@ -1,0 +1,25 @@
+label{
+    font-weight: 600;
+}
+.formulaire{
+    display: table-caption;
+    font-family: 'Varela Round', sans-serif;
+}
+.form__name{
+    margin: 10px 0px;
+    font-family: 'Varela Round', sans-serif;
+    border: 1px solid gray;
+}
+.form__text{
+    font-family: 'Varela Round', sans-serif;
+    border: 1px solid gray;
+}
+.form__button{
+    background-color: blue;
+    color: white;
+    height: 2rem;
+    border: none;
+    border-radius: 15%;
+    font-weight: 600;
+    font-family: 'Varela Round', sans-serif;
+}
